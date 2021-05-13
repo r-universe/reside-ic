@@ -8,3 +8,4 @@
 	url = https://github.com/reside-ic/ids
 	shallow = true
 	registered = true
+	oncran = true
