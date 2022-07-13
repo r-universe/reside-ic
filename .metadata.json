@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "ids",
+    "oncran": true
+  }
+]
